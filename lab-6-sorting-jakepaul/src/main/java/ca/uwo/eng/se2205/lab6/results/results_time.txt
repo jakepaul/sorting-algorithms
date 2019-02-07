@@ -1,0 +1,3 @@
+InsertionSorter,40,Fast,1156,Fast,384,2505300
+InsertionSorter,40,Fast,1156,Normal,384,6016604265
+InsertionSorter,40,Fast,1156,Slow,384,12318343716
